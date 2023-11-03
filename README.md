@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @G-KALAIYARASAN
-- 👀 I’m interested in C++,DIGITAL PRINCIPLES AND SOFTWARE DEVELOPMENT
+- 👀 I’m interested in Web Development , UI , C++.
 - 🌱 I’m currently learning RMKCET
 - 📫 How to reach me kalacy063@rmkcet.ac.in
 
